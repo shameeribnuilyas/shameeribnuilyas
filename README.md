@@ -1,9 +1,8 @@
 ## I'm a Student at College Of Engineering, Trivandrum. 💪
 ## CETIAN
 ## MCA
-## Website : <a href="http://shameer.tech/">
-  <img align="left" alt="Shameer's Website" width="22px" src="assets/website.svg" />
-</a>
+## Website <img src="assets/website,svg" /> :<a href="http://shameer.tech/">shameer.tech </a>
+
 ![social-links-title](assets/connectwithme.svg)
 
 <a href="https://www.linkedin.com/in/shameer-m-r-5916771b6/">
