@@ -40,3 +40,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shameer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shameer" /></a></p><br><br>
+
+ <img align="left" alt=""  src="assets/shameer.svg" />
