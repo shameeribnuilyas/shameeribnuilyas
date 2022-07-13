@@ -2,7 +2,7 @@
 ## CETIAN
 ## MCA
 ## Developer
-## Website :<a href="http://shameer.tech/">shameer.tech </a> , <a href="https://portfolio-sl7ck.ondigitalocean.app/"> backup </a>
+## Website :<a href="http://shameer.live/">shameer.tech </a> , <a href="https://portfolio-sl7ck.ondigitalocean.app/"> backup </a>
    
 
 ![social-links-title](assets/connectwithme.svg)
