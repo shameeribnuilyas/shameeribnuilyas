@@ -1,4 +1,4 @@
-## I'm a Student at College Of Engineering, Trivandrum. 💪
+## Software Engineer @ Assuretech business services ltd.. 💪
 ## CETIAN
 ## MCA
 ## Developer
